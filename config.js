@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi cậu....",
-    introTitle: 'Phuong vy',
+    introTitle: 'Phuongvy',
     introDesc: `trước giờ an đã làm Pvy buồn rất nhiều nhưng hành trình 4 năm qua chúng mình vẫn có nhau, vậy vì sao khi đã trưởng thành hơn mình lại xa nhau, nếu hết thương thì tớ sẽ đổi cách yêu vì để cậu bên tớ 1 lần nữa`,
     btnIntro: '^^HiHi^^',
     title: 'AN đã thay đổi nhiều rồi, tình cảm của an cũng vậy... 🥰',
