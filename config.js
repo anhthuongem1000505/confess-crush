@@ -1,17 +1,18 @@
 const CONFIG = {
-    titleWeb: "Gửi cậu....",
+    titleWeb: "guinguoitoiu...",
     introTitle: 'Phuongvy',
-    introDesc: `trước giờ an đã làm Pvy buồn rất nhiều nhưng hành trình 4 năm qua chúng mình vẫn có nhau, vậy vì sao khi đã trưởng thành hơn mình lại xa nhau, nếu hết thương thì tớ sẽ đổi cách yêu vì để cậu bên tớ 1 lần nữa`,
+    introDesc: `Hơn 3 năm qua mình đã trải qua nhiều thứ, nhừng tình cảm lúc đó là chân thành và nồng nhiệt nhất, vậy sao khi ta trưởng thành hơn thì lại rời xa nhau `,
     btnIntro: '^^HiHi^^',
-    title: 'AN đã thay đổi nhiều rồi, tình cảm của an cũng vậy... 🥰',
-    desc: 'nó giờ càng nhiều thêm, hãy bắt đầu lại từ những thứ nhỏ nhặt nhất nha ',
-    btnYes: '1 lần cuối cùng nha <33',
+    title: 'An đã thay đổi nhiều thứ, cả tình cảm dành cho vy... 🥰',
+    desc: 'nhưng nó chỉ càng nhiều thêm, mình hãy bắt đầu lại từ những thứ nhỏ nhặt nhất nha ',
+    btnYes: '1 cơ hội cuối cùng ak <33',
     btnNo: 'Không nha :3',
-    question: 'cuộc đời mình còn dài, tớ sẽ chững minh cho cậu thấy , tớ ko mỗm <3',
-    btnReply: 'Gửi cho thk chos <3',
-    reply: 'sẽ không có lần sau nữa đâu <33333333',
-    mess: 'Mình biết mà 🥰. ctay lần nữa là lúc mình cưới đó 😘😘',
-    messDesc: 'hè này an qua đón đi chơi nha.',
+    question: 'mệt thì an chăm sẽ chăm sóc, chán thì an sẽ đổi cách yêu, Pvy không phải tìm người mới nữa đâu, thứ nhất thời lời mình vui thì chỉ là trò chơi thôi <3',
+    btnReply: 'Đồng ý nha <3',
+    reply: 'tạm thời đồng ý đó nha <33333333',
+    mess: 'Mình biết mà 🥰. An sẽ làm cho vy hạnh phúc, thề với ôg trời lần này là lần cuối, lần sau ctay là lúc tôii cưới cậu 😘😘',
+    messDesc: 'Hè này an qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
+
