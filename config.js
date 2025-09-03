@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "guinguoitoiu...",
     introTitle: 'Phuongvy',
     introDesc: `Hơn 3 năm qua mình đã trải qua nhiều thứ, nhừng tình cảm lúc đó là chân thành và nồng nhiệt nhất, vậy sao khi ta trưởng thành hơn thì lại rời xa nhau `,
-    btnIntro: '^^HiHi^^',
+    btnIntro: '^^HiHidvas
     title: 'An đã thay đổi nhiều thứ, cả tình cảm dành cho vy... 🥰',
     desc: 'nhưng nó chỉ càng nhiều thêm, mình hãy bắt đầu lại từ những thứ nhỏ nhặt nhất nha ',
     btnYes: '1 cơ hội cuối cùng ak <33',
