@@ -1,18 +1,17 @@
 const CONFIG = {
-    titleWeb: "guinguoitoiu...",
-    introTitle: 'Phuongvy',
-    introDesc: `Hơn 3 năm qua mình đã trải qua nhiều thứ, nhừng tình cảm lúc đó là chân thành và nồng nhiệt nhất, vậy sao khi ta trưởng thành hơn thì lại rời xa nhau `,
-    btnIntro: '^^HiHidvas
-    title: 'An đã thay đổi nhiều thứ, cả tình cảm dành cho vy... 🥰',
-    desc: 'nhưng nó chỉ càng nhiều thêm, mình hãy bắt đầu lại từ những thứ nhỏ nhặt nhất nha ',
-    btnYes: '1 cơ hội cuối cùng ak <33',
+    titleWeb: "gửi e cô gái của tháng 9",
+    introTitle: 'Sinh nhật vv',
+    introDesc: `tao có vài lời muốn nói `,
+    btnIntro: ':))
+    title: 'tao biết là t kh tốt, chưa phải ng mà m mong muốn🥰 nhưng cho tao ít kỉ nhá,',
+    desc: ' tao thích mày, làm người yêu tao nhá ',
+    btnYes: 'đồng ý nhá nhá<33',
     btnNo: 'Không nha :3',
-    question: 'mệt thì an chăm sẽ chăm sóc, chán thì an sẽ đổi cách yêu, Pvy không phải tìm người mới nữa đâu, thứ nhất thời lời mình vui thì chỉ là trò chơi thôi <3',
+    question: 'thà chọn sai, chứ đừng bỏ lỡ, ai biết sau này mik còn gặp nhau nữa ko',
     btnReply: 'Đồng ý nha <3',
-    reply: 'tạm thời đồng ý đó nha <33333333',
-    mess: 'Mình biết mà 🥰. An sẽ làm cho vy hạnh phúc, thề với ôg trời lần này là lần cuối, lần sau ctay là lúc tôii cưới cậu 😘😘',
-    messDesc: 'Hè này an qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    reply: 'tạm thời đồng ý <33333333',
+    mess: 'câu chuyện tình này kh cần vội vả, nhưng nó sẽ phải lâu dài😘😘',
+    messDesc: 'và kết câu chuyện đó ở đám cưới, mọng mơ mà.',
+    btnAccept: 'Okiiiii lun ',
 }
 
