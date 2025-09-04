@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "guinguoitoiu...",
+    titleWeb: "Chào e cô gái của tháng 9",
     introTitle: 'Phuongvy',
     introDesc: `Hơn 3 năm qua mình đã trải qua nhiều thứ, nhừng tình cảm lúc đó là chân thành và nồng nhiệt nhất, vậy sao khi ta trưởng thành hơn thì lại rời xa nhau `,
     btnIntro: '^^HiHidvas
@@ -13,6 +13,6 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. An sẽ làm cho vy hạnh phúc, thề với ôg trời lần này là lần cuối, lần sau ctay là lúc tôii cưới cậu 😘😘',
     messDesc: 'Hè này an qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+
 }
 
